@@ -2,31 +2,30 @@
 <div align="center"> 
   <img src="https://media.giphy.com/media/3ohs4p8V5P6aTHI8Rq/giphy.gif" width="300px"/>
   <div id="social-budges">
-    <p>
       <a href="http://t.me/Romiconchik"><img src="https://img.shields.io/badge/-Telegram-blue?logo=Telegram&style=for-the-badge"/></a>
       <a href="mailto:roman.nieronov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=Gmail&style=for-the-badge&logoColor=white" alt="Gmail"/></a></br>
-      <a href=""><img src="https://img.shields.io/badge/CV-eng-darkblue" alt="CV-eng"/></a></br>
-      <a href=""><img src="https://img.shields.io/badge/CV-rus-darkred" alt="CV-rus"/></a></br>
+      <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/Neronov_Roman_Resume.pdf"><img src="https://img.shields.io/badge/CV-eng-darkblue" alt="CV-eng"/></a></br>
+      <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/Неронов_Роман_Resume.pdf"><img src="https://img.shields.io/badge/CV-rus-darkred" alt="CV-rus"/></a></br>
   </div>  
 </div>
 
 ### 👀 Focus Area
 
-- **Natural Language Processing (Text, Audio)**
+- Natural Language Processing (Text, Audio)
 
 ### 🏫 Education
 
--  Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2020-2024
+- Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2020-2024
 
 
 ### 📈 Stats
 
-<p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RomiconEZ&show_icons=true&hide_border=true&theme=dracula&hide_rank=true">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RomiconEZ&show_icons=true&hide_border=true&theme=dracula&hide_rank=true"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomiconEZ&layout=compact&hide_border=true&theme=dracula"/>
 </p>
 
-</details>
 
 ### 🧰 Toolbox
 
