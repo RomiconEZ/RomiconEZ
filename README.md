@@ -108,6 +108,6 @@
 ### 💻 Pet Projects
 <p align="center">
   <a href="https://github.com/RomiconEZ/Computing-features-for-graphs-and-Supervised-temporal-link-prediction-for-networks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomiconEZ&repo=Computing-features-for-graphs-and-Supervised-temporal-link-prediction-for-networks&hide_border=true&theme=light"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomiconEZ&repo=Computing-features-for-graphs-and-Supervised-temporal-link-prediction-for-networks&hide_border=true&theme=dracula"/>
   </a>
 </p>
