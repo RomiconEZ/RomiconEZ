@@ -107,7 +107,10 @@
 
 ### 💻 Pet Projects
 <p align="center">
-  <a href="https://github.com/RomiconEZ/Computing-features-for-graphs-and-Supervised-temporal-link-prediction-for-networks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomiconEZ&repo=Computing-features-for-graphs-and-Supervised-temporal-link-prediction-for-networks&hide_border=true&theme=dracula"/>
+  <a href="https://github.com/RomiconEZ/AnaText">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomiconEZ&repo=AnaText&hide_border=true&theme=dracula" alt=""/>
+  </a>
+  <a href="https://github.com/RomiconEZ/NetLinkAnalyze">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomiconEZ&repo=NetLinkAnalyze&hide_border=true&theme=dracula" alt=""/>
   </a>
 </p>
