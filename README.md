@@ -4,8 +4,7 @@
   <div id="social-budges">
       <a href="http://t.me/Romiconchik"><img src="https://img.shields.io/badge/-Telegram-blue?logo=Telegram&style=for-the-badge"/></a>
       <a href="mailto:roman.nieronov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=Gmail&style=for-the-badge&logoColor=white" alt="Gmail"/></a></br>
-      <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/Neronov_Roman_Resume.pdf"><img src="https://img.shields.io/badge/CV-eng-darkblue" alt="CV-eng"/></a></br>
-      <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/Неронов_Роман_Resume.pdf"><img src="https://img.shields.io/badge/CV-rus-darkred" alt="CV-rus"/></a></br>
+      <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/НероновРМ_resume.pdf"><img src="https://img.shields.io/badge/CV-rus-darkred" alt="CV-RU"/></a></br>
   </div>  
 </div>
 
