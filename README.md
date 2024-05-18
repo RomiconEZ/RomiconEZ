@@ -112,4 +112,7 @@
   <a href="https://github.com/RomiconEZ/NetLinkAnalyze">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomiconEZ&repo=NetLinkAnalyze&hide_border=true&theme=dracula" alt=""/>
   </a>
+    <a href="https://github.com/RomiconEZ/Contact-Center-Automation-Service">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomiconEZ&repo=Contact-Center-Automation-Service&hide_border=true&theme=dracula" alt=""/>
+  </a>
 </p>
