@@ -3,19 +3,22 @@
   <img src="https://media.giphy.com/media/3ohs4p8V5P6aTHI8Rq/giphy.gif" width="300px"/>
   <div id="social-budges">
       <a href="http://t.me/Romiconchik"><img src="https://img.shields.io/badge/-Telegram-blue?logo=Telegram&style=for-the-badge"/></a>
-      <a href="mailto:roman.nieronov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=Gmail&style=for-the-badge&logoColor=white" alt="Gmail"/></a></br>
-      <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/Неронов-Роман-Михайлович-resume.pdf"><img src="https://img.shields.io/badge/CV-RU-red" alt="CV-RU" width="80" height="35"/></a></br>
+      <a href="mailto:roman.nieronov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=Gmail&style=for-the-badge&logoColor=white" alt="Gmail"/></a><br>
+      <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/Neronov-Roman-Resume_ENG.pdf" style="display: inline-block;"><img src="https://img.shields.io/badge/CV-ENG-skyblue" alt="CV-ENG" width="80" height="30"/></a>
+      <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/Neronov-Roman-Resume_RU.pdf" style="display: inline-block;"><img src="https://img.shields.io/badge/CV-RU-800020" alt="CV-RU" width="70" height="30"/></a>
   </div>  
 </div>
 
 ### 👀 Focus Area
 
 - Natural Language Processing (Text, Audio)
+- Development of B2C services
 
 ### 🏫 Education
 
 - Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2020-2024
-
+- MTS School of Data Analysts, 2023-2024
+- Master's Degree in AI «ITMO AI Talent Hub», 2024-2026
 
 ### 📈 Stats
 
@@ -34,10 +37,16 @@
 **Back-End**
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=flat&logo=fastapi)
+![aiogram3](https://img.shields.io/badge/aiogram3-05122A?style=flat)
+
+
 
 **Messaging Queue**  
   
-![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=kafka)
+![Kafka](https://img.shields.io/badge/Kafka-05122A?style=flat&logo=kafka)
+![rabbitmq](https://img.shields.io/badge/Rabbitmq-05122A?&style=flat&logo=rabbitmq)
+
   
 **REST**  
   
@@ -65,6 +74,10 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface)
 ![Pillow](https://img.shields.io/badge/-Pillow-05122A?style=flat&logo=pillow)
+![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat)
+![Scrapy](https://img.shields.io/badge/-Scrapy-05122A?style=flat)
+![Ambrosia](https://img.shields.io/badge/-Ambrosia-05122A?style=flat)
+![RecTools](https://img.shields.io/badge/-RecTools-05122A?style=flat)
 
 **Deployment**
 
@@ -78,6 +91,8 @@
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Cassandra](https://img.shields.io/badge/Cassandra-05122A?style=flat&logo=apache%20cassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-05122A?&style=flat&logo=redis&logoColor=white)
 
 **IDEs**
 
