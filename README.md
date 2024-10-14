@@ -1,11 +1,22 @@
 <h1 align="center">Hi, fellow!</h1>
 <div align="center"> 
   <img src="https://media.giphy.com/media/3ohs4p8V5P6aTHI8Rq/giphy.gif" width="300px"/>
-  <div id="social-budges">
-      <a href="http://t.me/Romiconchik"><img src="https://img.shields.io/badge/-Telegram-blue?logo=Telegram&style=for-the-badge"/></a>
-      <a href="mailto:roman.nieronov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=Gmail&style=for-the-badge&logoColor=white" alt="Gmail"/></a><br>
-      <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/Neronov-Roman-Resume_ENG.pdf" style="display: inline-block;"><img src="https://img.shields.io/badge/CV-ENG-skyblue" alt="CV-ENG" width="80" height="30"/></a>
-      <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/Neronov-Roman-Resume_RU.pdf" style="display: inline-block;"><img src="https://img.shields.io/badge/CV-RU-800020" alt="CV-RU" width="70" height="30"/></a>
+  <div id="social-badges">
+      <a href="http://t.me/Romiconchik">
+          <img src="https://img.shields.io/badge/-Telegram-blue?logo=Telegram&style=for-the-badge" style="border-radius: 15px;"/>
+      </a>
+      <a href="mailto:roman.nieronov@gmail.com">
+          <img src="https://img.shields.io/badge/-Gmail-red?logo=Gmail&style=for-the-badge&logoColor=white" alt="Gmail" style="border-radius: 15px;"/>
+      </a>
+      <a href="https://www.linkedin.com/in/roman-neronov/">
+          <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&style=for-the-badge" style="border-radius: 15px;"/>
+      </a><br>
+      <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/Neronov-Roman-Resume_ENG.pdf" style="display: inline-block;">
+          <img src="https://img.shields.io/badge/CV-ENG-skyblue" alt="CV-ENG" width="80" height="30" style="border-radius: 5px;"/>
+      </a>
+      <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/Neronov-Roman-Resume_RU.pdf" style="display: inline-block;">
+          <img src="https://img.shields.io/badge/CV-RU-800020" alt="CV-RU" width="70" height="30" style="border-radius: 5px;"/>
+      </a>
   </div>  
 </div>
 
@@ -13,6 +24,13 @@
 
 - Natural Language Processing (Text, Audio)
 - Development of B2C services
+
+### 💻 Work Experience
+
+- **AI Security Lab ITMO**, *Python Developer*, 10.2024 – present
+- **KALEVA TOUR LLC**, *Specialist in information systems development and natural language processing*, 10.2023 – 05.2024
+- **VTB Bank (PJSC)**, *ML Developer*, 02.2023 – 04.2023
+- **Startup project «Web service for digital heart diagnostics»**, *N.I. Pirogov St. Petersburg State University Clinic of High Medical Technologies*, 2022 – 2023
 
 ### 🏫 Education
 
