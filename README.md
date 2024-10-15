@@ -14,7 +14,7 @@
       <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/Neronov-Roman-Resume_ENG.pdf" style="display: inline-block;">
           <img src="https://img.shields.io/badge/CV-ENG-skyblue" alt="CV-ENG" width="80" height="30" style="border-radius: 5px;"/>
       </a>
-      <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/Neronov-Roman-Resume_RU.pdf" style="display: inline-block;">
+      <a href="https://github.com/RomiconEZ/RomiconEZ/blob/main/resumes/Neronov-Roman-Resume_Full_RU.pdf" style="display: inline-block;">
           <img src="https://img.shields.io/badge/CV-RU-800020" alt="CV-RU" width="70" height="30" style="border-radius: 5px;"/>
       </a>
   </div>  
