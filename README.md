@@ -25,6 +25,7 @@
 
 ### 💻 Work Experience
 
+- **KORUS consulting**, *AI Engineer*, 12.2024 – present
 - **AI Security Lab ITMO**, *Python Developer*, 10.2024 – present
 - **MTS DIGITAL**, *Data Analyst (professional development)*, 10.2023 - 09.2024
 - **KALEVA TOUR LLC**, *Specialist in information systems development and natural language processing*, 10.2023 – 05.2024
