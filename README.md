@@ -148,7 +148,7 @@
     <a href="https://github.com/RomiconEZ/Contact-Center-Automation-Service">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomiconEZ&repo=Contact-Center-Automation-Service&hide_border=true&theme=dracula" alt=""/>
   </a>
-    <a href="https://github.com/RomiconEZ/llamator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RomiconEZ&repo=llamator&hide_border=true&theme=dracula" alt=""/>
+    <a href="https://github.com/LLAMATOR-Core/llamator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LLAMATOR-Core&repo=llamator&hide_border=true&theme=dracula" alt=""/>
   </a>
 </p>
